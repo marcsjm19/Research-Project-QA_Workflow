@@ -62,6 +62,8 @@ If this phase is during a lot, means that something is not working as it had to.
 
 ## Sources
 
+The sources used for the research of this project are the following ones:
+
 https://skywell.software/blog/qa-process-flow-in-software-testing/
 
 https://apiumhub.com/tech-blog-barcelona/qa-engineer-organizing-qa-workflow/
