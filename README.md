@@ -31,6 +31,7 @@ Here it is the typical QA workflow to make sure everything is running well:
 In most cases, the QA process and procedures occur during a time crunch and there is usually not a lot of time reserved to provide feedback to other team members from the perspective of the end user, but such feedback is extremely important.
 
   **6. Release:** The QA team is responsible for the release and it requires a very organized workflow. Do not start drafting the release document on the day of release, always plan all release activities beforehand. This release documents should include all of your expectation for the software and should include all requirements and their versions. Since every product is unique and has its own set of features, other quality assurance strategies will include some extra steps to make sure all of the features are tested.  
+![](https://github.com/marcsjm19/Research-Project-QA_Workflow/blob/master/docs/QA_Plan.jpg)
 
 ## Balancing secure vs agile workflow
 
@@ -41,6 +42,8 @@ The secure workflow consists on planning everything from the start, every proces
 ### Agile workflow
 
 The agile workflow is an adaptive method where modifications are used to build the project over what we already have been improving it constantly and giving it more features. This workflow is normally used on small teams and projects that doesn't last long and everything can be changed and tested easily. There are few roles and the team is very flexible in general and the work we do is always in contact with the client so we get feedback that will improve the overall quality of the project.
+
+![](https://github.com/marcsjm19/Research-Project-QA_Workflow/blob/master/docs/agile%20workflow.jpeg)
 
 So, normally what it should happen with small projects is that initially the team starts with a secure workflow, with everything planned from the start, but at some point the team will use an agile workflow to solve some things.
 
@@ -59,6 +62,29 @@ This phase is planned to do when a build or release is going to be done. This ha
 Everything has to accomplish the customer request and it is in this phase where the team will see if it is well done or not.
 
 If this phase is during a lot, means that something is not working as it had to. So, with this phase the team has to spend enough time to solve the majority of bugs and the implementation lets the team solving in a properly way.
+
+
+## Example of report
+
+Here I put an example of a report of a bug an how it works:
+
+![](https://github.com/marcsjm19/Research-Project-QA_Workflow/blob/master/docs/example%20report.png)
+
++ **Bug:** Brief description about what happens.
++ **Status:** It tells if the bug has been fixed or it is still happening.
++ **Step by step:** It says how to arrive to the bug.
++ **Expected behaviour:** It is what it should happen.
++ **Type:**
+  - A: Game breaking bug or bug that makes the game unplayable.
+  - B: Bug that makes the game less playable as intended.
+  - C: Aesthetic, graphical or audio bug.
++ **Priority:**
+  - Urgent: Bug needs to be fixed immediately.
+  - High: Bug needs to be fixed within a day or two. 
+  - Regular: Bug needs to be fixed within a week.
+  - Low: Bug needs to be fixed whenever there aren't any high or urgent bugs.
++ **Version:** The version of the build where the bug happens.
+
 
 ## Sources
 
