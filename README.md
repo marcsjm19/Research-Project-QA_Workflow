@@ -64,18 +64,18 @@ If this phase is during a lot, means that something is not working as it had to.
 
 The sources used for the research of this project are the following ones:
 
-https://skywell.software/blog/qa-process-flow-in-software-testing/
++ https://skywell.software/blog/qa-process-flow-in-software-testing/
 
-https://apiumhub.com/tech-blog-barcelona/qa-engineer-organizing-qa-workflow/
++ https://apiumhub.com/tech-blog-barcelona/qa-engineer-organizing-qa-workflow/
 
-https://medium.com/effective-developers/effective-qa-best-practices-1befac1af029
++ https://medium.com/effective-developers/effective-qa-best-practices-1befac1af029
 
-https://github.com/GangBug/AgeofEmpiresII/wiki/QA-WorkFlow
++ https://github.com/GangBug/AgeofEmpiresII/wiki/QA-WorkFlow
 
-https://github.com/AlexandruC5/QA-Workflow-research
++ https://github.com/AlexandruC5/QA-Workflow-research
 
-https://kruschecompany.com/quality-assurance-in-projects/
++ https://kruschecompany.com/quality-assurance-in-projects/
 
-https://www.seamgen.com/blog/agile-qa-process/
++ https://www.seamgen.com/blog/agile-qa-process/
 
-https://www.guru99.com/workflow-testing.html
++ https://www.guru99.com/workflow-testing.html
