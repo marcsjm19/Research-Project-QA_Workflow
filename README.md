@@ -31,3 +31,14 @@ Here it is the typical QA workflow to make sure everything is running well:
 In most cases, the QA process and procedures occur during a time crunch and there is usually not a lot of time reserved to provide feedback to other team members from the perspective of the end user, but such feedback is extremely important.
 
 **6. Release:** The QA team is responsible for the release and it requires a very organized workflow. Do not start drafting the release document on the day of release, always plan all release activities beforehand. This release documents should include all of your expectation for the software and should include all requirements and their versions. Since every product is unique and has its own set of features, other quality assurance strategies will include some extra steps to make sure all of the features are tested.  
+
+## Balancing secure vs agile workflow
+
+### Secure workflow
+
+The secure workflow consists on planning everything from the start, every process that we know we have to do is planed and it strictly needs to be done to ensure that no other process is affected. Usually it is used in big teams where the roles of each member are very defined, everyone knows what job they have to do, it is more focused on individuals rather than collective work. The traditional workflow is not prepared to make changes, everything has to go as how it was planned if not the project will be a fail.
+
+### Agile workflow
+
+The agile workflow is an adaptive method where modifications are used to build the project over what we already have been improving it constantly and giving it more features. This workflow is normally used on small teams and projects that doesn't last long and everything can be changed and tested easily. There are few roles and the team is very flexible in general and the work we do is always in contact with the client so we get feedback that will improve the overall quality of the project.
+
